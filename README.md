@@ -19,9 +19,11 @@ Save the data to the file
 
 
 # CODE
+```
 Developed By: SOUVIK KUNDU
 Register No: 212221230105
 
+```
 # titanic-Picture.csv:
 
 import pandas as pd  
